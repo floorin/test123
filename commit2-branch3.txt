@@ -3,6 +3,8 @@ row 22 in commit3-branch3.txt
 row 2 in commit2-branch3.txt
 Si tot asa... interesant! Si cu asta basta!
 row 3 in commit3-branch3.txt
-row 3 in commit2-branch3.txt
+for(i=1;i<10;i++){
+    continue;
+}
 row 4 in commit2-branch3.txt
 Si STOP!
