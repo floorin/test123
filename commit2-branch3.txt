@@ -1,3 +1,4 @@
 row 1 in commit2-branch3.txt
 row 2 in commit2-branch3.txt
 row 3 in commit2-branch3.txt
+row 4 in commit2-branch3.txt
